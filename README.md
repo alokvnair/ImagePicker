@@ -1,16 +1,9 @@
-ImagePicker
+ImagePicker (Forked version from https://github.com/nguyenhoanglam/ImagePicker)
 ========
 
 A simple library that allows you to select images from the device library or directly from the camera.
 
-[![](https://jitpack.io/v/nguyenhoanglam/ImagePicker.svg)](https://jitpack.io/#nguyenhoanglam/ImagePicker)
-[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-ImagePicker-green.svg?style=true)](https://android-arsenal.com/details/1/4072)
-[![Join the chat at https://gitter.im/ImagePicker/BugAndFeature](https://badges.gitter.im/ImagePicker/Lobby.svg)](https://gitter.im/ImagePicker/BugAndFeature?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
-Screenshots
---------
-
-<img src="https://user-images.githubusercontent.com/4979755/41592707-a8c7b4b8-73e7-11e8-9273-ba4900f69f87.png" height="683" width="384"> <img src="https://user-images.githubusercontent.com/4979755/41592708-a906efde-73e7-11e8-9681-dfa8047ccacd.png" height="683" width="384">
+[![](https://jitpack.io/v/alokvnair/ImagePicker.svg)](https://jitpack.io/#alokvnair/ImagePicker)
 
 Download
 --------
@@ -29,7 +22,7 @@ allprojects {
 Add the dependency
 ```java
 dependencies {
-    implementation 'com.github.nguyenhoanglam:ImagePicker:1.3.3'
+    implementation 'com.github.alokvnair:ImagePicker:1.3.4'
 }
 ```
 
@@ -91,7 +84,7 @@ What's New
 License
 ========
 
-Copyright 2016 Nguyen Hoang Lam
+Copyright 2016 Nguyen Hoang Lam, Alok Nair
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
